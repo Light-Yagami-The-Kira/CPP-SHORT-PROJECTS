@@ -156,11 +156,5 @@ class ComplexCalculator{
         }
 };
 int main(){
-
-    ComplexCalculator<int> num1(3,4);
-    ComplexCalculator<int> num2(5,6);
-
-    (num1/num2).displayComplex();
-
     return 0;
 }
